@@ -29,6 +29,8 @@ li{
 
 /* base styles */
 body{
+  height: 100%;
+  border: 5px dashed var(--third);
   margin: 0;
   margin-bottom: 25rem;
   background: var(--secondary);

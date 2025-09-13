@@ -4,9 +4,6 @@
   --secondary: #FF1493;
   --third: rgb(2, 0, 2);
 }
-html{
-  height: 100%;
-}
 .site{
   max-height: 100dvh;
   display: grid;
@@ -29,8 +26,6 @@ li{
 
 /* base styles */
 body{
-  height: 100%;
-  border: 5px dashed var(--third);
   margin: 0;
   margin-bottom: 25rem;
   background: var(--secondary);

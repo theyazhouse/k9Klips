@@ -294,10 +294,13 @@ footer img{
   width: 30px;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 250px){
   body{
-  font-size: 12px;
+  font-size: 10px;
   }
+}
+@media screen and (min-width: 251px){
+  font-size: 10px;
 }
 
 @media screen and (min-width: 321px){

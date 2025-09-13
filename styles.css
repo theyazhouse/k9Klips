@@ -4,7 +4,9 @@
   --secondary: #FF1493;
   --third: rgb(2, 0, 2);
 }
-
+html{
+  height: 100%;
+}
 .site{
   max-height: 100dvh;
   display: grid;

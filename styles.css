@@ -236,6 +236,10 @@ nav h1{
   padding: 30px 20px; 
   background: #ca22a0;
 }
+::placeholder{
+  color: var(--third);
+  font-size: 17px;
+}
 #contact h3, #contact p{
   text-align: center;
   margin-bottom: 0;
